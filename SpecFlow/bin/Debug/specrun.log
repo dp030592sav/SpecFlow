@@ -1,0 +1,162 @@
+﻿2018-04-21T13:17:50.3513815+03:00;Thread#1;Info;Discovering target: Default
+2018-04-21T13:17:50.3513815+03:00;Thread#1;Info;Discovering tests from assembly: C:\D\Projects\SpecFlowTest\SpecFlow\bin\Debug\SpecFlow.dll
+Appdomain Disposed
+Test Suite Dump
+#0: SpecFlow/Default - 
+#1: Default - 
+#2: SpecFlow - 
+#3: Test2 - 
+#5: Test1 - 
+#9: Test3 - 
+#4: Test2 - TestAssembly:SpecFlow/Feature:Test2/Scenario:Test2
+#6: Test1_1 - TestAssembly:SpecFlow/Feature:Test1/Scenario:Test1_1
+#7: Test1_2 - TestAssembly:SpecFlow/Feature:Test1/Scenario:Test1_2
+#8: Test1_3 - TestAssembly:SpecFlow/Feature:Test1/Scenario:Test1_3
+#10: Test3 - TestAssembly:SpecFlow/Feature:Test3/Scenario:Test3
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #4 from normal test queue 
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:True
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#4:Scheduler: get next test for thread 4
+Thread#:Scheduler: testitem #6 from normal test queue 
+Thread#4:Scheduler: considering testitem #6 for thread 4
+Thread#4:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+Thread#4:TestItem#6:runsOnOneOtherThreadSpecific:False
+Thread#4:TestItem#6:runsOnOneOtherThreadUnspecific:True
+Thread#4:Scheduler: using testitem #6 for thread 4
+Thread#4:Scheduler: Test #6 is scheduled for thread
+Thread#4:Scheduler: with testItemExecutionIndex 0
+Thread#3:Scheduler: get next test for thread 3
+Thread#:Scheduler: testitem #7 from normal test queue 
+Thread#3:Scheduler: considering testitem #7 for thread 3
+Thread#3:TestItem#7:testItemMatchesCurrentTestThread:UnSpecific
+Thread#3:TestItem#7:runsOnOneOtherThreadSpecific:False
+Thread#3:TestItem#7:runsOnOneOtherThreadUnspecific:True
+Thread#3:Scheduler: using testitem #7 for thread 3
+Thread#3:Scheduler: Test #7 is scheduled for thread
+Thread#3:Scheduler: with testItemExecutionIndex 0
+Thread#6:Scheduler: get next test for thread 6
+Thread#:Scheduler: testitem #8 from normal test queue 
+Thread#6:Scheduler: considering testitem #8 for thread 6
+Thread#6:TestItem#8:testItemMatchesCurrentTestThread:UnSpecific
+Thread#6:TestItem#8:runsOnOneOtherThreadSpecific:False
+Thread#6:TestItem#8:runsOnOneOtherThreadUnspecific:True
+Thread#6:Scheduler: using testitem #8 for thread 6
+Thread#6:Scheduler: Test #8 is scheduled for thread
+Thread#6:Scheduler: with testItemExecutionIndex 0
+Thread#7:Scheduler: get next test for thread 7
+Thread#:Scheduler: testitem #10 from normal test queue 
+Thread#7:Scheduler: considering testitem #10 for thread 7
+Thread#7:TestItem#10:testItemMatchesCurrentTestThread:UnSpecific
+Thread#7:TestItem#10:runsOnOneOtherThreadSpecific:False
+Thread#7:TestItem#10:runsOnOneOtherThreadUnspecific:True
+Thread#7:Scheduler: using testitem #10 for thread 7
+Thread#7:Scheduler: Test #10 is scheduled for thread
+Thread#7:Scheduler: with testItemExecutionIndex 0
+Thread#1:Scheduler: get next test for thread 1
+Thread#:Scheduler: at the end of normal test queue
+Thread#1:Scheduler: enumerator for thread is at end
+Thread#1:Scheduler: No more tests for thread
+Thread#5:Scheduler: get next test for thread 5
+Thread#:Scheduler: at the end of normal test queue
+Thread#5:Scheduler: enumerator for thread is at end
+Thread#5:Scheduler: No more tests for thread
+Thread#2:Scheduler: get next test for thread 2
+Thread#:Scheduler: at the end of normal test queue
+Thread#2:Scheduler: enumerator for thread is at end
+Thread#2:Scheduler: No more tests for thread
+Thread#9:Scheduler: get next test for thread 9
+Thread#:Scheduler: at the end of normal test queue
+Thread#9:Scheduler: enumerator for thread is at end
+Thread#9:Scheduler: No more tests for thread
+Thread#8:Scheduler: get next test for thread 8
+Thread#:Scheduler: at the end of normal test queue
+Thread#8:Scheduler: enumerator for thread is at end
+Thread#8:Scheduler: No more tests for thread
+Thread #0: creating new test thread executor for SpecFlow, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Thread #4: creating new test thread executor for SpecFlow, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Thread #3: creating new test thread executor for SpecFlow, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Thread #7: creating new test thread executor for SpecFlow, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Thread #6: creating new test thread executor for SpecFlow, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\D\Projects\SpecFlowTest\packages\SpecRun.Runner.1.7.1\tools\TechTalk.SpecRun.Framework.Executor.dll
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\D\Projects\SpecFlowTest\packages\SpecRun.Runner.1.7.1\tools\TechTalk.SpecRun.Framework.Executor.dll
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\D\Projects\SpecFlowTest\packages\SpecRun.Runner.1.7.1\tools\TechTalk.SpecRun.Framework.Executor.dll
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\D\Projects\SpecFlowTest\packages\SpecRun.Runner.1.7.1\tools\TechTalk.SpecRun.Framework.Executor.dll
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\D\Projects\SpecFlowTest\packages\SpecRun.Runner.1.7.1\tools\TechTalk.SpecRun.Framework.Executor.dll
+Thread#6: Test #8/0 is started on thread #6
+Thread#3: Test #7/0 is started on thread #3
+Thread#0: Test #4/0 is started on thread #0
+Thread#7: Test #10/0 is started on thread #7
+Thread#4: Test #6/0 is started on thread #4
+Thread#3:T:-> Using app.config
+Thread#0:T:-> Using app.config
+Thread#6:T:-> Using app.config
+Thread#7:T:-> Using app.config
+Thread#4:T:-> Using app.config
+Thread#4:B:When I run Test one
+Thread#3:B:When I run Test one
+Thread#7:B:When I run Test three
+Thread#0:B:When I run Test two
+Thread#6:B:When I run Test one
+Thread#4:T:constant 1
+Thread#6:T:constant 1
+Thread#0:T:constant 2
+Thread#3:T:constant 1
+Thread#7:T:constant 3
+Thread#7:T:new3 3
+Thread#7:T:FeatureContext_3
+Thread#7:T:done: Test3Steps.WhenIRunTestThree() (3,0s)
+Thread#7:Scheduler: get next test for thread 7
+Thread#:Scheduler: at the end of normal test queue
+Thread#7:Scheduler: enumerator for thread is at end
+Thread#7:Scheduler: No more tests for thread
+Thread#7: Test #10/0 is finished on thread #7 as Succeeded within 4,2726761 seconds
+Appdomain Disposed
+Thread#0:T:new2 2
+Thread#0:T:FeatureContext_2
+Thread#0:T:done: Test2Steps.WhenIRunTestTwo() (5,0s)
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 6,2486651 seconds
+Appdomain Disposed
+Thread#3:T:constant 1
+Thread#4:T:constant 1
+Thread#6:T:constant 1
+Thread#3:T:done: Test1Steps.WhenIRunTestOne() (10,0s)
+Thread#6:T:done: Test1Steps.WhenIRunTestOne() (10,0s)
+Thread#4:T:done: Test1Steps.WhenIRunTestOne() (10,0s)
+Thread#3:Scheduler: get next test for thread 3
+Thread#:Scheduler: at the end of normal test queue
+Thread#3:Scheduler: enumerator for thread is at end
+Thread#3:Scheduler: No more tests for thread
+Thread#6:Scheduler: get next test for thread 6
+Thread#:Scheduler: at the end of normal test queue
+Thread#6:Scheduler: enumerator for thread is at end
+Thread#6:Scheduler: No more tests for thread
+Thread#4:Scheduler: get next test for thread 4
+Thread#:Scheduler: at the end of normal test queue
+Thread#4:Scheduler: enumerator for thread is at end
+Thread#4:Scheduler: No more tests for thread
+Thread#4: Test #6/0 is finished on thread #4 as Succeeded within 11,2591911 seconds
+Thread#6: Test #8/0 is finished on thread #6 as Succeeded within 11,2591911 seconds
+Thread#3: Test #7/0 is finished on thread #3 as Succeeded within 11,2748162 seconds
+Appdomain Disposed
+Appdomain Disposed
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 5
+Succeeded: 5
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 0

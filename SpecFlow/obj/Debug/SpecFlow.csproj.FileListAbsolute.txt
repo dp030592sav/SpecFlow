@@ -1,0 +1,15 @@
+C:\D\Projects\SpecFlowTest\SpecFlow\bin\Debug\Default.srprofile
+C:\D\Projects\SpecFlowTest\SpecFlow\bin\Debug\SpecFlow.dll.config
+C:\D\Projects\SpecFlowTest\SpecFlow\bin\Debug\SpecFlow.dll
+C:\D\Projects\SpecFlowTest\SpecFlow\bin\Debug\SpecFlow.pdb
+C:\D\Projects\SpecFlowTest\SpecFlow\bin\Debug\Newtonsoft.Json.dll
+C:\D\Projects\SpecFlowTest\SpecFlow\bin\Debug\SpecRun.SpecFlowPlugin.dll
+C:\D\Projects\SpecFlowTest\SpecFlow\bin\Debug\System.ValueTuple.dll
+C:\D\Projects\SpecFlowTest\SpecFlow\bin\Debug\TechTalk.SpecFlow.dll
+C:\D\Projects\SpecFlowTest\SpecFlow\bin\Debug\TechTalk.SpecRun.Common.dll
+C:\D\Projects\SpecFlowTest\SpecFlow\bin\Debug\TechTalk.SpecRun.dll
+C:\D\Projects\SpecFlowTest\SpecFlow\bin\Debug\Newtonsoft.Json.xml
+C:\D\Projects\SpecFlowTest\SpecFlow\bin\Debug\System.ValueTuple.xml
+C:\D\Projects\SpecFlowTest\SpecFlow\obj\Debug\SpecFlow.dll
+C:\D\Projects\SpecFlowTest\SpecFlow\obj\Debug\SpecFlow.pdb
+C:\D\Projects\SpecFlowTest\SpecFlow\obj\Debug\SpecFlow.csprojResolveAssemblyReference.cache
