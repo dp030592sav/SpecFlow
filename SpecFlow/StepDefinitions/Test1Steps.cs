@@ -11,7 +11,7 @@ namespace SpecFlowTest.StepDefinitions
         public void WhenIRunTestOne()
         {
             Console.WriteLine(Support.constant + " 1");
-            System.Threading.Thread.Sleep(10000);
+            System.Threading.Thread.Sleep(7000);
             Console.WriteLine(Support.constant + " 1");
         }
     }
